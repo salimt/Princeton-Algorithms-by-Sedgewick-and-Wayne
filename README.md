@@ -5,8 +5,6 @@
 ![Princeton University](http://i.imgur.com/Qktqnu1.png) INSTRUCTORS
 #### Instructors: Robert Sedgewick and Kevin Wayne
 
-<li><a href="https://salimt.github.io/java-fundamentals/java-style-guide.html">Style Guide</a></li>
-
 ## Course Description
 
 This course covers the essential information that every serious programmer needs to know about algorithms and data structures, with emphasis on applications and scientific performance analysis of Java implementations. Part I covers elementary data structures, sorting, and searching algorithms. Part II focuses on graph- and string-processing algorithms.
